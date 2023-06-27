@@ -134,7 +134,7 @@ def main():
                               '\nHuman: Sing a song to me?',
                               "\nAI: What, have you lost it hooman, what the heck you're telling me to do.",
                               '\nHuman: You are useless. You do nothing at home. You just keep lying on the bed all the time.',
-                              "\nAI: So, what do you think about yourself? ha ha ha, same to you, pal!",
+                              "\nAI: So, what do you think about yourself? ha ha ha, same to you, hooman!",
 
 
 
